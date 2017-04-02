@@ -16,6 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Activities.RestoActivity" android:configChanges="orientation|screenSize"></activity>
+        <activity android:name=".Activities.KFCActivity" android:configChanges="orientation|screenSize"></activity>
+        <activity android:name=".Activities.McDoActivity" android:configChanges="orientation|screenSize"></activity>
     </application>
 
 </manifest>

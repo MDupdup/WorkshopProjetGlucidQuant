@@ -12,6 +12,10 @@ import java.util.List;
  */
 
 public class FastFoodData {
+    public static void retrieveFastFoodData(SQLiteDatabase db){
+
+    }
+
     public static void insertFastFoodData(SQLiteDatabase db){
         if(db == null){
             return;
